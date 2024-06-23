@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-22T19:19:41 IDT" name="Default suite" finished-at="2024-06-22T19:20:54 IDT" duration-ms="72402">
+    <groups>
+    </groups>
+    <test started-at="2024-06-22T19:19:41 IDT" name="Default test" finished-at="2024-06-22T19:20:54 IDT" duration-ms="72402">
+      <class name="hw1tests.test4">
+        <test-method is-config="true" signature="setup()[pri:0, instance:hw1tests.test4@6e495b48]" started-at="2024-06-22T19:19:41 IDT" name="setup" finished-at="2024-06-22T19:19:50 IDT" duration-ms="9180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="tc01_Clickdeals()[pri:0, instance:hw1tests.test4@6e495b48]" started-at="2024-06-22T19:19:50 IDT" name="tc01_Clickdeals" description="Click on deals" finished-at="2024-06-22T19:20:10 IDT" duration-ms="19820" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01_Clickdeals -->
+        <test-method signature="tc02_Exploreplacedealsfrom()[pri:0, instance:hw1tests.test4@6e495b48]" started-at="2024-06-22T19:20:10 IDT" name="tc02_Exploreplacedealsfrom" description="Explore cheap travel deals- place from" finished-at="2024-06-22T19:20:17 IDT" duration-ms="6523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02_Exploreplacedealsfrom -->
+        <test-method signature="tc03_Exploreplacedealsdates()[pri:0, instance:hw1tests.test4@6e495b48]" started-at="2024-06-22T19:20:17 IDT" name="tc03_Exploreplacedealsdates" description="Explore cheap travel deals- place return/One-way" finished-at="2024-06-22T19:20:30 IDT" duration-ms="13548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc03_Exploreplacedealsdates -->
+        <test-method signature="tc04_Exploreplacedealsdirection()[pri:0, instance:hw1tests.test4@6e495b48]" started-at="2024-06-22T19:20:31 IDT" name="tc04_Exploreplacedealsdirection" description="Explore cheap travel deals- dates and price " finished-at="2024-06-22T19:20:50 IDT" duration-ms="19628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc04_Exploreplacedealsdirection -->
+        <test-method signature="tc05_Explorethedealfromlist()[pri:0, instance:hw1tests.test4@6e495b48]" started-at="2024-06-22T19:20:50 IDT" name="tc05_Explorethedealfromlist" description="Cheacke the deal&#039;s price" finished-at="2024-06-22T19:20:54 IDT" duration-ms="3446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc05_Explorethedealfromlist -->
+      </class> <!-- hw1tests.test4 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
